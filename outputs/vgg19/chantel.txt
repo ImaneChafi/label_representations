@@ -1,0 +1,67 @@
+Epoch 1 train loss 10.371014001694592 | valid loss 8.675654106140136 | valid acc 0.1268
+Saving new best checkpoint...
+Epoch 2 train loss 8.305962485345928 | valid loss 8.416821508407592 | valid acc 0.2512
+Saving new best checkpoint...
+Epoch 3 train loss 7.363141590898687 | valid loss 8.496521635055542 | valid acc 0.3128
+Saving new best checkpoint...
+Epoch 4 train loss 6.473951876163483 | valid loss 6.895202341079712 | valid acc 0.4256
+Saving new best checkpoint...
+Epoch 5 train loss 5.874309107661247 | valid loss 5.747469453811646 | valid acc 0.5526
+Saving new best checkpoint...
+Epoch 6 train loss 5.463537374680692 | valid loss 6.169948348999023 | valid acc 0.5292
+Epoch 7 train loss 5.133799895644188 | valid loss 5.140368504524231 | valid acc 0.5986
+Saving new best checkpoint...
+Epoch 8 train loss 4.914815055375749 | valid loss 5.683249311447144 | valid acc 0.5782
+Epoch 9 train loss 4.622689820148728 | valid loss 5.5665743446350096 | valid acc 0.5946
+Epoch 10 train loss 4.535731088708747 | valid loss 4.731553082466125 | valid acc 0.6534
+Saving new best checkpoint...
+Epoch 11 train loss 4.363111175596714 | valid loss 3.9628820180892945 | valid acc 0.7094
+Saving new best checkpoint...
+Epoch 12 train loss 4.221325096758929 | valid loss 5.1704340839385985 | valid acc 0.6172
+Epoch 13 train loss 4.097207926891067 | valid loss 4.6843100357055665 | valid acc 0.6812
+Epoch 14 train loss 3.9230326014486225 | valid loss 4.1328550148010255 | valid acc 0.6992
+Epoch 15 train loss 3.8694976446303455 | valid loss 4.7719744348526 | valid acc 0.6692
+Epoch 16 train loss 3.935824354941195 | valid loss 4.158529195785523 | valid acc 0.7088
+Epoch 17 train loss 3.7537107176401396 | valid loss 3.8536143589019773 | valid acc 0.7262
+Saving new best checkpoint...
+Epoch 18 train loss 3.640257067978382 | valid loss 4.975277943611145 | valid acc 0.6656
+Epoch 19 train loss 3.7473031004721467 | valid loss 4.17519259929657 | valid acc 0.7084
+Epoch 20 train loss 3.5153678100217474 | valid loss 4.231647672653199 | valid acc 0.7256
+Epoch 21 train loss 3.572934878820723 | valid loss 3.9448231267929077 | valid acc 0.7208
+Epoch 22 train loss 3.3443140164017677 | valid loss 4.527289628982544 | valid acc 0.6766
+Epoch 23 train loss 3.427853135900064 | valid loss 3.9665705871582033 | valid acc 0.7326
+Saving new best checkpoint...
+Epoch 24 train loss 3.4202240346507593 | valid loss 4.280156030654907 | valid acc 0.7144
+Epoch 25 train loss 3.443832749670202 | valid loss 4.184948678016663 | valid acc 0.7404
+Saving new best checkpoint...
+Epoch 26 train loss 3.4227128977125343 | valid loss 3.6434670543670653 | valid acc 0.7578
+Saving new best checkpoint...
+Epoch 27 train loss 3.3469003926623953 | valid loss 5.310437479019165 | valid acc 0.6518
+Epoch 28 train loss 3.363938545638865 | valid loss 3.4426471042633056 | valid acc 0.76
+Saving new best checkpoint...
+Epoch 29 train loss 3.3136347620324655 | valid loss 4.448651466369629 | valid acc 0.6882
+Epoch 30 train loss 3.2101078663359988 | valid loss 3.4470342230796813 | valid acc 0.7586
+Epoch 31 train loss 3.120853679762645 | valid loss 3.4465149211883546 | valid acc 0.7694
+Saving new best checkpoint...
+Epoch 32 train loss 3.0774523341520266 | valid loss 3.8667094326019287 | valid acc 0.7698
+Saving new best checkpoint...
+Epoch 33 train loss 3.1623586995357815 | valid loss 4.150753583908081 | valid acc 0.7218
+Epoch 34 train loss 3.175365223125978 | valid loss 3.565801968574524 | valid acc 0.7464
+Epoch 35 train loss 3.174919595433907 | valid loss 4.025168533325195 | valid acc 0.7184
+Epoch 36 train loss 3.0999455346979876 | valid loss 4.127423777580261 | valid acc 0.7114
+Epoch 37 train loss 3.16929623789408 | valid loss 3.6125123167037962 | valid acc 0.7552
+Epoch 38 train loss 3.195958294651725 | valid loss 3.3202900552749632 | valid acc 0.7678
+Epoch 39 train loss 3.105493890968236 | valid loss 4.408267211914063 | valid acc 0.7072
+Epoch 40 train loss 3.1282709674401716 | valid loss 3.9647512149810793 | valid acc 0.75
+Epoch 41 train loss 3.0955755863000047 | valid loss 3.3631146001815795 | valid acc 0.7638
+Epoch 42 train loss 3.059253781356595 | valid loss 3.695700235366821 | valid acc 0.7294
+Epoch 43 train loss 3.0440213846212085 | valid loss 4.290397462844848 | valid acc 0.7132
+Epoch 44 train loss 3.0751715051856907 | valid loss 3.186756286621094 | valid acc 0.7686
+Epoch 45 train loss 2.9586700394072314 | valid loss 3.2640623378753664 | valid acc 0.7956
+Saving new best checkpoint...
+Epoch 46 train loss 2.919403624466874 | valid loss 3.7636247444152833 | valid acc 0.7552
+Epoch 47 train loss 3.057643561877988 | valid loss 3.9029055500030516 | valid acc 0.716
+Epoch 48 train loss 3.0218676071275365 | valid loss 3.801767249107361 | valid acc 0.7574
+Epoch 49 train loss 2.993777831169692 | valid loss 3.084031126499176 | valid acc 0.7862
+Epoch 50 train loss 2.8279467987065967 | valid loss 3.4365960597991942 | valid acc 0.776
+Label speech: seed 7, model vgg19, test loss 3.2640623950958254, test acc 0.7956
