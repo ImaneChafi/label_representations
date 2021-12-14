@@ -18,6 +18,7 @@
 !python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/french --base_dir ./outputs/french --seed 7 --label speech
 ``` 
 under the Running tab
+
 4. For the Russian accent labels, run 
 ``` 
 !python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/russian --base_dir ./outputs/russian --seed 7 --label speech
