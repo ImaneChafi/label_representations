@@ -6,7 +6,7 @@
 [Sunand Raghupathi](https://www.linkedin.com/in/sunand-raghupathi),
 [Hod Lipson](https://www.hodlipson.com/)
 <br>
-### Update on code as of 13/21/2021
+### Update on code as of 13/12/2021
 [Imane Chafi]
 [Marie Guertin]
 [Arian Omidi]
