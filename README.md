@@ -1,33 +1,33 @@
 # [RE]Beyond Categorical Label Representations for Image Classification
 
-###Original Authors
+### Original Authors
 [Boyuan Chen](http://boyuanchen.com/),
 [Yu Li](https://www.linkedin.com/in/lilykat),
 [Sunand Raghupathi](https://www.linkedin.com/in/sunand-raghupathi),
 [Hod Lipson](https://www.hodlipson.com/)
 <br>
-###Update on code as of 13/21/2021
+### Update on code as of 13/21/2021
 [Imane Chafi]
 [Marie Guertin]
 [Arian Omidi]
 
-##How to run the languages updated works (French, Russian, Canadian-French) 
+## How to run the languages updated works (French, Russian, Canadian-French) 
 1. Open```run.ipynb``` on a jupyter notebook
 2. For the french translated labels, run ```!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/french --base_dir ./outputs/french --seed 7 --label speech``` under the Running tab
 3. For the Russian accent labels, run ``` !python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/russian --base_dir ./outputs/russian --seed 7 --label speech```
 4. For the Canadian-french accent labels, run ```!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/chantel --base_dir ./outputs/chantel --seed 7 --label speech```
 5. The results will be printed in the console
 
-##How to run the limited dataset tests
+## How to run the limited dataset tests
 1. Open```running_with_less_data.ipynb``` on a jupyter or google colab notebook
 2. Sections titled VGG19 and RESNET110 with subtitles corresponding to 1%, 2%, 4%, 8%, 10% can be run in a notebook. 
 
-##How to run the VGG19 and RESNET for plotting
+## How to run the VGG19 and RESNET for plotting
 1. Open```VGG19_RESNET110run.ipynb``` on a jupyter or google colab notebook
 2. To run VGG19 or RESNET110, simply change the ```--model``` tag to ```--model resnet110``` or ```--model VGG19``` from the above instructions
 3. To output the graphs, run the last section titled ```Graphs```
 
-###For more running information, and to run the original code paper, please see below. 
+### For more running information, and to run the original code paper, please see below. 
 
 bbbb
 Columbia University
