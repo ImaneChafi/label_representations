@@ -13,10 +13,20 @@
 
 ## How to run the languages updated works (French, Russian, Canadian-French) 
 1. Open```run.ipynb``` on a jupyter notebook
-2. For the french translated labels, run ```!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/french --base_dir ./outputs/french --seed 7 --label speech``` under the Running tab
-3. For the Russian accent labels, run ``` !python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/russian --base_dir ./outputs/russian --seed 7 --label speech```
-4. For the Canadian-french accent labels, run ```!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/chantel --base_dir ./outputs/chantel --seed 7 --label speech```
-5. The results will be printed in the console
+2. For the french translated labels, run 
+```
+!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/french --base_dir ./outputs/french --seed 7 --label speech
+``` 
+under the Running tab
+4. For the Russian accent labels, run 
+``` 
+!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/russian --base_dir ./outputs/russian --seed 7 --label speech
+```
+6. For the Canadian-french accent labels, run 
+```
+!python train.py --model resnet110 --dataset cifar10 --label_dir ./labels/label_files/chantel --base_dir ./outputs/chantel --seed 7 --label speech
+```
+8. The results will be printed in the console
 
 ## How to run the limited dataset tests
 1. Open```running_with_less_data.ipynb``` on a jupyter or google colab notebook
